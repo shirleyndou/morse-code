@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MorseCodeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-03T09:22:34" hostname="recruit-ThinkCentre-M73" time="0.015">
+<testsuite name="MorseCodeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-03T13:20:23" hostname="recruit-ThinkCentre-M73" time="0.012">
   <properties/>
-  <testcase name="lettersToMorseTest()" classname="MorseCodeTest" time="0.015"/>
+  <testcase name="lettersToMorseTest()" classname="MorseCodeTest" time="0.012"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

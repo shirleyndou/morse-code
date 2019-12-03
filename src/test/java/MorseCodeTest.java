@@ -12,5 +12,7 @@ public class MorseCodeTest {
     String output = test1.morseToLetters();
     assertEquals('H', 'H', "....");
     assertEquals('A', 'A', ".-");
+
+    assertEquals("/", "/", " "); //testing for space
 }
 }

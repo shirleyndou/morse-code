@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eb1dbe3-f2be-4322-8575-c0a2848f40b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/MorseCodeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MorseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MorseCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/MorseCodeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/MorseCodeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/MorseCodeTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/MorseCodeTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-MorseCodeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-MorseCodeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MorseCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MorseCodeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,22 +139,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="735" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1575357989897" />
-    <state width="1253" height="190" key="GridCell.Tab.0.bottom" timestamp="1575366114087">
+    <state width="1253" height="190" key="GridCell.Tab.0.bottom" timestamp="1575378392295">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="190" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575366114087" />
-    <state width="1253" height="190" key="GridCell.Tab.0.center" timestamp="1575366114086">
+    <state width="1253" height="190" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575378392295" />
+    <state width="1253" height="190" key="GridCell.Tab.0.center" timestamp="1575378392294">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="190" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575366114086" />
-    <state width="1253" height="190" key="GridCell.Tab.0.left" timestamp="1575366114086">
+    <state width="1253" height="190" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575378392294" />
+    <state width="1253" height="190" key="GridCell.Tab.0.left" timestamp="1575378392294">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="190" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575366114086" />
-    <state width="1253" height="190" key="GridCell.Tab.0.right" timestamp="1575366114087">
+    <state width="1253" height="190" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575378392294" />
+    <state width="1253" height="190" key="GridCell.Tab.0.right" timestamp="1575378392295">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="190" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575366114087" />
+    <state width="1253" height="190" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575378392295" />
     <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1575297931274">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
