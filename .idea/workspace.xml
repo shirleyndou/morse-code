@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eb1dbe3-f2be-4322-8575-c0a2848f40b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/MorseCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MorseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MorseCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +26,17 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -33,8 +53,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.MorseCodeTest.lettersToMorseTest">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="MorseCode.main" />
@@ -42,8 +76,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MorseCodeTest.lettersToMorseTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;MorseCodeTest.lettersToMorseTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MorseCodeTest.lettersToMorseTest" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
@@ -78,38 +133,50 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1575277791049" />
-    <state width="1253" height="190" key="GridCell.Tab.0.bottom" timestamp="1575297283755">
+    <state x="494" y="155" width="735" height="484" key="FileChooserDialogImpl" timestamp="1575357989897">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="190" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575297283755" />
-    <state width="1253" height="190" key="GridCell.Tab.0.center" timestamp="1575297283754">
+    <state x="494" y="155" width="735" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1575357989897" />
+    <state width="1253" height="190" key="GridCell.Tab.0.bottom" timestamp="1575364953522">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="190" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575297283754" />
-    <state width="1253" height="190" key="GridCell.Tab.0.left" timestamp="1575297283754">
+    <state width="1253" height="190" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575364953522" />
+    <state width="1253" height="190" key="GridCell.Tab.0.center" timestamp="1575364953522">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="190" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575297283754" />
-    <state width="1253" height="190" key="GridCell.Tab.0.right" timestamp="1575297283754">
+    <state width="1253" height="190" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575364953522" />
+    <state width="1253" height="190" key="GridCell.Tab.0.left" timestamp="1575364953522">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="190" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575297283754" />
-    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1575287543057">
+    <state width="1253" height="190" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575364953522" />
+    <state width="1253" height="190" key="GridCell.Tab.0.right" timestamp="1575364953522">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575287543057" />
-    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1575287543057">
+    <state width="1253" height="190" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575364953522" />
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1575297931274">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1575287543057" />
-    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1575287543057">
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575297931274" />
+    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1575297931273">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1575287543057" />
-    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1575287543057">
+    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1575297931273" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1575297931273">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1575287543057" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1575297931273" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1575297931273">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1575297931273" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1575357997193">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1575357997193" />
+    <state x="457" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575357453744">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="457" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1299.741@67.27.1299.741" timestamp="1575357453744" />
     <state x="271" y="135" width="880" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575287539995">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

@@ -136,11 +136,11 @@ public class MorseCode {
 
     public String morseToLetters()
     {
-        letters="";
-        for(int i=0; i<morse.length(); i++)
-        {
-            letters +=convertMorseToLetters(morse.charAt(i));
-        }
+//        letters="";
+//        for(int i=0; i<morse.length(); i++)
+//        {
+//            letters +=convertMorseToLetters(morse.charAt(i));
+//        }
         return letters;
     }
 
