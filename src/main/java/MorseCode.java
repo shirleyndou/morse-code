@@ -9,7 +9,7 @@ public class MorseCode {
     }
 
 
-    public String convertMorseToLetters(char convert)
+    public String lettersToMorseCode(char convert)
     {
         switch (convert)
         {
@@ -124,24 +124,16 @@ public class MorseCode {
         return " ";
     }
 
-    public String lettersToMorse()
+    public String morseCodeToLetters()
     {
         morse = " ";
         for(int i=0; i<letters.length(); i++)
         {
-            morse += convertMorseToLetters(Character.toUpperCase(letters.charAt(i)))+ " ";
+            morse += lettersToMorseCode(Character.toUpperCase(letters.charAt(i)));
         }
         return morse;
     }
 
-    public String morseToLetters()
-    {
-//        letters="";
-//        for(int i=0; i<morse.length(); i++)
-//        {
-//            letters +=convertMorseToLetters(morse.charAt(i));
-//        }
-        return letters;
-    }
+
 
 }
